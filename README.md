@@ -8,6 +8,7 @@
 
 This is the **Control Repository** for the "Capture the Drone" multi-target radar tracking hackathon. It serves as the central hub for:
 
+✅ **Setup Support** – Get help with individual environment setup (WSL2, ROS2, Python, UV, MCAP) – **collaborative, non-competitive, no points**  
 ✅ **Help Requests** – Ask other teams for technical assistance (they earn collaboration points!)  
 ✅ **Questions & Clarifications** – Get answers about challenge rules, scope, deadlines, and evaluation  
 ✅ **Collaboration Scoring** – Track and recognize teams helping each other  
@@ -32,7 +33,44 @@ This is the **Control Repository** for the "Capture the Drone" multi-target rada
 
 ---
 
+## 🧰 Environment Setup Support (Pre-Challenge, Individual Assignment)
+
+### When to Use Setup Help
+
+Use the **Setup Help** template during the **individual environment setup phase** (before teams are formed) for issues with:
+- WSL2 installation or configuration
+- ROS2 installation (Jazzy or other versions)
+- Python, UV, or package management
+- MCAP tooling setup
+- Development environment problems
+
+### Setup Support Rules
+
+This phase is **collaborative and non-competitive**:
+
+✅ **No Points Awarded** – Helping others with setup does NOT earn collaboration points  
+✅ **Helping Encouraged** – You're encouraged to help classmates, but it's not scored  
+✅ **Safe Environment** – This is a learning phase; ask questions freely  
+✅ **Transparent Issues** – Setup problems are visible and solutions are reusable  
+
+**When asking for setup help:**
+1. **Search existing issues first** – Your problem may already be solved
+2. **Include complete context** – OS version, ROS2 version, error messages, logs
+3. **Show what you've tried** – Demonstrate your troubleshooting attempts
+4. **Close when resolved** – Add 👍 and explain what worked to help others
+
+**When helping with setup:**
+- No pressure – help if you can, but this isn't tracked or scored
+- Explain your solution so others can learn
+- Point to documentation or resources when helpful
+
+**Important:** Setup help is **only for the individual environment setup assignment**. Once teams are formed and the challenge begins, use the **Help Request** template instead (which DOES earn collaboration points).
+
+---
+
 ## 🆘 How to Request Help
+
+### During the Challenge (After Teams Are Formed)
 
 ### When to Use Help Requests
 
@@ -112,7 +150,8 @@ Infrastructure bugs are handled by coordinators with high priority.
 ## 🏷️ Issue Labels Guide
 
 ### Type Labels
-- `help-request` – Technical assistance from other teams
+- `setup-help` – Individual environment setup help (pre-challenge, non-competitive, no points)
+- `help-request` – Technical assistance from other teams (during challenge, earns points)
 - `question` – Clarification from coordinators
 - `infra-bug` – Infrastructure or tooling issues
 
@@ -245,7 +284,8 @@ This challenge emphasizes **learning through collaboration**:
 
 ## 📝 Issue Template Quick Links
 
-- [🆘 Help Request](./.github/ISSUE_TEMPLATE/help-request.md)
+- [🧰 Setup Help (Individual Assignment)](./.github/ISSUE_TEMPLATE/setup-help.md)
+- [🆘 Help Request (Team Challenge)](./.github/ISSUE_TEMPLATE/help-request.md)
 - [❓ Question](./.github/ISSUE_TEMPLATE/question.md)
 - [🐞 Infrastructure Bug](./.github/ISSUE_TEMPLATE/infrastructure-bug.md)
 
