@@ -1,0 +1,40 @@
+# GitHub Labels for Capture the Drone Control Repository
+# This file can be used with tools like github-label-sync or manually created in GitHub UI
+
+# Type Labels
+- name: help-request
+  color: '0E8A16'
+  description: 'Request for technical help from other teams'
+
+- name: question
+  color: 'D876E3'
+  description: 'Question about challenge rules, scope, or clarification'
+
+- name: infra-bug
+  color: 'D93F0B'
+  description: 'Bug in challenge infrastructure, inventory, or provided datasets'
+
+- name: quality-help
+  color: 'FBCA04'
+  description: 'Exceptional help deserving bonus collaboration points'
+
+# Domain Labels
+- name: radar
+  color: '1D76DB'
+  description: 'Radar signal processing, tracking algorithms'
+
+- name: ros2
+  color: '5319E7'
+  description: 'ROS2 integration, MCAP parsing'
+
+- name: python
+  color: '0052CC'
+  description: 'Python tooling, UV, Click CLI'
+
+- name: evaluation
+  color: 'C5DEF5'
+  description: 'Scoring, metrics, autograding'
+
+- name: inventory
+  color: 'BFD4F2'
+  description: 'Central datasets or resources'

@@ -10,6 +10,8 @@ assignees: ''
 
 **Team Name:** [Your team name]
 
+**Team Repository URL:** [Link to your GitHub Classroom team repository]
+
 **Domain:** 
 <!-- Check one or more -->
 - [ ] Radar Signal Processing
