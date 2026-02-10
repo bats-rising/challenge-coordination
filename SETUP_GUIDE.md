@@ -15,7 +15,8 @@ All the following files and documentation have been created in this repository:
 - ✅ `.github/labels.yml` - Label configuration for the repository
 
 ### 📝 Issue Templates
-- ✅ `.github/ISSUE_TEMPLATE/help-request.md` - For technical help requests
+- ✅ `.github/ISSUE_TEMPLATE/setup-help.md` - For individual environment setup help (pre-challenge, non-competitive)
+- ✅ `.github/ISSUE_TEMPLATE/help-request.md` - For technical help requests (during challenge)
 - ✅ `.github/ISSUE_TEMPLATE/question.md` - For rule/scope clarifications
 - ✅ `.github/ISSUE_TEMPLATE/infrastructure-bug.md` - For infrastructure bugs
 - ✅ `.github/ISSUE_TEMPLATE/read-first.md` - Guide for using the repository
@@ -65,6 +66,7 @@ github-label-sync --access-token YOUR_TOKEN bats-rising/capture-the-drone-contro
 
 | Name | Color | Description |
 |------|-------|-------------|
+| `setup-help` | `7057FF` (purple) | Individual environment setup help (non-competitive, no points) |
 | `help-request` | `0E8A16` (green) | Request for technical help from other teams |
 | `question` | `D876E3` (purple) | Question about challenge rules, scope, or clarification |
 | `infra-bug` | `D93F0B` (red) | Bug in challenge infrastructure, inventory, or provided datasets |

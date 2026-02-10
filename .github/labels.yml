@@ -14,6 +14,10 @@
   color: 'D93F0B'
   description: 'Bug in challenge infrastructure, inventory, or provided datasets'
 
+- name: setup-help
+  color: '7057FF'
+  description: 'Individual environment setup help (non-competitive, no points)'
+
 - name: quality-help
   color: 'FBCA04'
   description: 'Exceptional help deserving bonus collaboration points'
