@@ -43,10 +43,26 @@ Provide us with your participation request either **in person** or **via email t
 - ✅ Your full name
 - ✅ Contact information (email)
 
+<p align="center">
+  <a href="mailto:bats-rising-challenge@bosch.com?subject=Invitation%20request%20to%20BATS%20Rising%20Challenge&body=your%20github%20profile%20name:%20%3Cyour%20github%20profile%20name%3E%0Ayour%20full%20name:%20%3Cyour%20full%20name%3E%0Acontact%20information:%20%3Cyour%20email%20address%3E">
+    <img src="assets/challenge_invitation_email.png" alt="Challenge Invitation Email QR Code" width="200">
+  </a>
+</p>
+
 We will then add you to the `bats-rising-challenge-participants` team.
 
-### Step 3: Confirm Access
-Once we've added you, please confirm that you can successfully access:
+
+
+### Step 3: Join GitHub Classroom
+Once we've added you to the team, join the **Phase 1 GitHub Classroom assignment** using the link below:
+
+<p align="center">
+  <a href="https://classroom.github.com/a/rK7AQxOn">
+    <img src="assets/classroom_link.png" alt="GitHub Classroom Link QR Code" width="200">
+  </a>
+</p>
+
+Then confirm that you can successfully access:
 - ✅ This challenge coordination repository
 - ✅ Your Phase 1 GitHub Classroom assignment (environment setup)
 
