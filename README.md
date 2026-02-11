@@ -24,7 +24,7 @@ Before you can participate in the "Capture the Drone" challenge, please complete
 If you don't already have one, register for a free account at [github.com](https://github.com).
 
 ### Step 2: Request Participation
-Provide us with your participation request either **in person** or **via email**. Make sure to include:
+Provide us with your participation request either **in person** or **via email to [bats-rising-challenge@bosch.com](mailto:bats-rising-challenge@bosch.com)**. Make sure to include:
 - ✅ Your **GitHub profile name** (username)
 - ✅ Your full name
 - ✅ Contact information (email)
