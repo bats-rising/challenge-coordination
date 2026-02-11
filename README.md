@@ -16,6 +16,30 @@ This is the **Control Repository** for the "Capture the Drone" multi-target rada
 
 ---
 
+## 📝 How to Register for the Challenge
+
+Before you can participate in the "Capture the Drone" challenge, please complete the following registration steps:
+
+### Step 1: Create a GitHub Account
+If you don't already have one, register for a free account at [github.com](https://github.com).
+
+### Step 2: Request Participation
+Provide us with your participation request either **in person** or **via email**. Make sure to include:
+- ✅ Your **GitHub profile name** (username)
+- ✅ Your full name
+- ✅ Contact information (email)
+
+We will then add you to the `bats-rising-challenge-participants` team.
+
+### Step 3: Confirm Access
+Once we've added you, please confirm that you can successfully access:
+- ✅ This challenge coordination repository
+- ✅ Your GitHub Classroom assignment (link will be provided)
+
+**Note:** If you have any issues accessing the challenge after registration, please contact the coordinators immediately.
+
+---
+
 ## ⚠️ What This Repository is NOT For
 
 ❌ **No Challenge Code** – Your tracking algorithms, MCAP parsers, and implementations belong in your team's GitHub Classroom assignment repository  
@@ -249,12 +273,13 @@ This challenge emphasizes **learning through collaboration**:
 
 ## 📞 Getting Started
 
-1. **Read the pinned "READ FIRST" issue** for important information
-2. **Choose the right issue template** based on your need
-3. **Search existing issues** to avoid duplicates
-4. **Provide complete information** in your issue
-5. **Engage constructively** with responses
-6. **Close issues** when resolved with 👍
+1. **Complete the registration process** (see "How to Register for the Challenge" section above)
+2. **Read the pinned "READ FIRST" issue** for important information
+3. **Choose the right issue template** based on your need
+4. **Search existing issues** to avoid duplicates
+5. **Provide complete information** in your issue
+6. **Engage constructively** with responses
+7. **Close issues** when resolved with 👍
 
 ---
 
