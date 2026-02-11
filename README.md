@@ -6,13 +6,71 @@
 
 ## 📋 What is This Repository?
 
-This is the **Control Repository** for the "Capture the Drone" multi-target radar tracking hackathon. It serves as the central hub for:
+This is the **Control Repository** for the "Capture the Drone" challenge. The challenge consists of two phases:
 
-✅ **Setup Support** – Get help with individual environment setup (WSL2, ROS2, Python, UV, MCAP) – **collaborative, non-competitive, no points**  
-✅ **Help Requests** – Ask other teams for technical assistance (they earn collaboration points!)  
+**Phase 1: Environment Setup (Individual Assignment)**
+- Setup WSL2 and Ubuntu 24.04
+- Install ROS2 Jazzy
+- Configure Python, UV, and MCAP tools
+- Visualize radar data
+- **Non-competitive, no points** – This phase enables as many participants as possible to join Phase 2
+
+**Phase 2: Multi-Target Tracking Challenge (Team Assignment)**
+- Implement radar tracking algorithms
+- Competitive challenge with points
+- Builds on the environment setup from Phase 1
+
+This repository serves as the central hub for:
+
+✅ **Setup Support** – Get help with Phase 1 environment setup – **collaborative, non-competitive, no points**  
+✅ **Help Requests** – Ask other teams for technical assistance during Phase 2 (they earn collaboration points!)  
 ✅ **Questions & Clarifications** – Get answers about challenge rules, scope, deadlines, and evaluation  
 ✅ **Collaboration Scoring** – Track and recognize teams helping each other  
 ✅ **Infrastructure Bug Reports** – Report issues with provided datasets, evaluation scripts, or central inventory  
+
+---
+
+## 📝 How to Register for the Challenge
+
+Before you can participate in the "Capture the Drone" challenge, please complete the following registration steps:
+
+### Step 1: Create a GitHub Account
+If you don't already have one, register for a free account at [github.com](https://github.com).
+
+### Step 2: Request Participation
+Provide us with your participation request either **in person** or **via email to [bats-rising-challenge@bosch.com](mailto:bats-rising-challenge@bosch.com)**. Make sure to include:
+- ✅ Your **GitHub profile name** (username)
+- ✅ Your full name
+- ✅ Contact information (email)
+
+<p align="center">
+  <a href="mailto:bats-rising-challenge@bosch.com?subject=Invitation%20request%20to%20BATS%20Rising%20Challenge&body=your%20github%20profile%20name:%20%3Cyour%20github%20profile%20name%3E%0Ayour%20full%20name:%20%3Cyour%20full%20name%3E%0Acontact%20information:%20%3Cyour%20email%20address%3E">
+    <img src="assets/challenge_invitation_email.png" alt="Challenge Invitation Email QR Code" width="200">
+  </a>
+</p>
+
+We will then add you to the `bats-rising-challenge-participants` team.
+
+
+
+### Step 3: Join GitHub Classroom
+Once we've added you to the team, join the **Phase 1 GitHub Classroom assignment** using the link below:
+
+<p align="center">
+  <a href="https://classroom.github.com/a/rK7AQxOn">
+    <img src="assets/classroom_link.png" alt="GitHub Classroom Link QR Code" width="200">
+  </a>
+</p>
+
+Then confirm that you can successfully access:
+- ✅ This challenge coordination repository
+- ✅ Your Phase 1 GitHub Classroom assignment (environment setup)
+
+**Note:** If you have any issues accessing the challenge after registration, please contact the coordinators immediately.
+
+### What Happens Next?
+
+After registration, you'll start with **Phase 1: Environment Setup** (individual, non-competitive). Once you complete the setup, you'll be ready for **Phase 2: Multi-Target Tracking Challenge** (team-based, competitive).
 
 ---
 
@@ -33,20 +91,24 @@ This is the **Control Repository** for the "Capture the Drone" multi-target rada
 
 ---
 
-## 🧰 Environment Setup Support (Pre-Challenge, Individual Assignment)
+## 🧰 Phase 1: Environment Setup Support (Individual Assignment)
+
+**Goal:** Setup WSL2, Ubuntu 24.04, ROS2 Jazzy, and visualize radar data to prepare for Phase 2.
 
 ### When to Use Setup Help
 
-Use the **Setup Help** template during the **individual environment setup phase** (before teams are formed) for issues with:
+Use the **Setup Help** template during **Phase 1** (individual environment setup assignment) for issues with:
 - WSL2 installation or configuration
-- ROS2 installation (Jazzy or other versions)
+- Ubuntu 24.04 setup
+- ROS2 Jazzy installation
 - Python, UV, or package management
 - MCAP tooling setup
+- Radar data visualization
 - Development environment problems
 
 ### Setup Support Rules
 
-This phase is **collaborative and non-competitive**:
+**Phase 1 is collaborative and non-competitive:**
 
 ✅ **No Points Awarded** – Helping others with setup does NOT earn collaboration points  
 ✅ **Helping Encouraged** – You're encouraged to help classmates, but it's not scored  
@@ -64,17 +126,15 @@ This phase is **collaborative and non-competitive**:
 - Explain your solution so others can learn
 - Point to documentation or resources when helpful
 
-**Important:** Setup help is **only for the individual environment setup assignment**. Once teams are formed and the challenge begins, use the **Help Request** template instead (which DOES earn collaboration points).
+**Important:** Setup help is **only for Phase 1 (individual environment setup assignment)**. Once you move to Phase 2 (team tracking challenge), use the **Help Request** template instead (which DOES earn collaboration points).
 
 ---
 
-## 🆘 How to Request Help
-
-### During the Challenge (After Teams Are Formed)
+## 🆘 Phase 2: How to Request Help (Team Tracking Challenge)
 
 ### When to Use Help Requests
 
-Use the **Help Request** template when you're stuck on:
+Use the **Help Request** template during **Phase 2** (team tracking challenge) when you're stuck on:
 - Radar signal processing or tracking algorithms
 - ROS2 MCAP parsing issues
 - Python/UV/Click tooling problems
@@ -260,10 +320,24 @@ This challenge emphasizes **learning through collaboration**:
 
 ## 🏆 Challenge Timeline
 
+### Phase 1: Environment Setup (Individual, Non-competitive)
+**Goal:** Setup your development environment and visualize radar data
+
+- Setup WSL2 and Ubuntu 24.04
+- Install ROS2 Jazzy
+- Configure Python, UV, and package management
+- Install MCAP tooling
+- Visualize radar data
+- Complete environment verification
+
+**No points awarded** – This phase prepares you for Phase 2
+
+### Phase 2: Multi-Target Tracking Challenge (Team-based, Competitive)
+
 **Day 1: Setup & Exploration**
-- Environment setup (WSL2, UV, Python, ROS2 Jazzy)
 - MCAP data exploration
 - Basic CLI tool structure
+- Initial algorithm planning
 
 **Day 2: Data Processing**
 - MCAP parsing and ROS2 message extraction
@@ -284,8 +358,8 @@ This challenge emphasizes **learning through collaboration**:
 
 ## 📝 Issue Template Quick Links
 
-- [🧰 Setup Help (Individual Assignment)](./.github/ISSUE_TEMPLATE/setup-help.md)
-- [🆘 Help Request (Team Challenge)](./.github/ISSUE_TEMPLATE/help-request.md)
+- [🧰 Setup Help (Phase 1 - Individual Assignment)](./.github/ISSUE_TEMPLATE/setup-help.md)
+- [🆘 Help Request (Phase 2 - Team Challenge)](./.github/ISSUE_TEMPLATE/help-request.md)
 - [❓ Question](./.github/ISSUE_TEMPLATE/question.md)
 - [🐞 Infrastructure Bug](./.github/ISSUE_TEMPLATE/infrastructure-bug.md)
 
