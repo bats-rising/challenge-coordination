@@ -37,24 +37,8 @@ Before you can participate in the "Capture the Drone" challenge, please complete
 ### Step 1: Create a GitHub Account
 If you don't already have one, register for a free account at [github.com](https://github.com).
 
-### Step 2: Request Participation
-Provide us with your participation request either **in person** or **via email to [bats-rising-challenge@bosch.com](mailto:bats-rising-challenge@bosch.com)**. Make sure to include:
-- ✅ Your **GitHub profile name** (username)
-- ✅ Your full name
-- ✅ Contact information (email)
-
-<p align="center">
-  <a href="mailto:bats-rising-challenge@bosch.com?subject=Invitation%20request%20to%20BATS%20Rising%20Challenge&body=your%20github%20profile%20name:%20%3Cyour%20github%20profile%20name%3E%0Ayour%20full%20name:%20%3Cyour%20full%20name%3E%0Acontact%20information:%20%3Cyour%20email%20address%3E">
-    <img src="assets/challenge_invitation_email.png" alt="Challenge Invitation Email QR Code" width="200">
-  </a>
-</p>
-
-We will then add you to the `bats-rising-challenge-participants` team.
-
-
-
-### Step 3: Join GitHub Classroom
-Once we've added you to the team, join the **Phase 1 GitHub Classroom assignment** using the link below:
+### Step 2: Accept the environment setup challenge
+Once you have a github account, join the **Phase 1 GitHub Classroom assignment** using the link below:
 
 <p align="center">
   <a href="https://classroom.github.com/a/rK7AQxOn">
@@ -62,11 +46,16 @@ Once we've added you to the team, join the **Phase 1 GitHub Classroom assignment
   </a>
 </p>
 
+It is normal, that you do not have access imediately after clicking accept the assignment (see next step).
+
+### Step 3: Accept the invitation to collaborate
+After accepting the enrollment (previous step), you will receive an email, with which you can accept the invitation to collaborate on the challenge.
+
 Then confirm that you can successfully access:
 - ✅ This challenge coordination repository
-- ✅ Your Phase 1 GitHub Classroom assignment (environment setup)
+- ✅ Your Phase 1 GitHub Classroom assignment (environment setup YourName)
 
-**Note:** If you have any issues accessing the challenge after registration, please contact the coordinators immediately.
+**Note:** If you have any issues accessing the challenge after accepting the invitation to collaborate, please contact the coordinators immediately.
 
 ### What Happens Next?
 
